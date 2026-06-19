@@ -1,0 +1,8 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "html_files": 2014,
+  "baidu_tracking_pages": 2014,
+  "zip": "/mnt/data/movie_static_site.zip"
+}
